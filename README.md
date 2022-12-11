@@ -18,8 +18,8 @@ url={https://openreview.net/forum?id=UiBiLRXR0G}
 
 ### Description of folders
 
-- [processed-data/](processed-data/): datasets downloaded from https://github.com/arbenson/ScHoLP-Data and pre-processed (extraction of the largest projected component and filtering of unfrequent nodes).
-- [3way-metrics-data/](https://drive.google.com/file/d/1losF2t22v7RZhi9hmLASvPKtAo7nUT02/view?usp=sharing): 3-way scores computed with this [method](https://github.com/arbenson/ScHoLP-Tutorial). We slightly adjusted the Julia code to calculate scores also for the quantiles 0-80 needed in the reconstruction task. You need to download this folder to run the 3-way analysis.
+- [processed-data/](processed-data/): datasets downloaded from [here](https://github.com/arbenson/ScHoLP-Data and pre-processed) (extraction of the largest projected component and filtering of unfrequent nodes).
+- [3way-metrics-data/](https://drive.google.com/file/d/1losF2t22v7RZhi9hmLASvPKtAo7nUT02/view?usp=sharing): 3-way scores computed with this [code](https://github.com/arbenson/ScHoLP-Tutorial). We slightly adjusted the Julia code to calculate scores also for the quantiles 0-80 needed in the reconstruction task. You need to download this folder to run the 3-way analysis.
 
 ### Description of python files
 
