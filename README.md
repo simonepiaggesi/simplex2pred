@@ -2,15 +2,15 @@
 
 In this repository you find code to run experiments of the paper "Effective Higher-order Link Prediction and Reconstruction from Simplicial Complex Embeddings". The library [SNAP](https://github.com/snap-stanford/snap) is needed, together with `requirements.txt`. The code has been tested with Python 3.6.13.
 
-If you use the code in this repository, please cite us:
+If you use the code in this repository, please consider citing us:
 ```bibtex
-@inproceedings{
-piaggesi2022effective,
-title={Effective Higher-order Link Prediction and Reconstruction from Simplicial Complex Embeddings},
-author={Simone Piaggesi and Andr{\'e} Panisson and Giovanni Petri},
-booktitle={The First Learning on Graphs Conference},
-year={2022},
-url={https://openreview.net/forum?id=UiBiLRXR0G}
+@inproceedings{piaggesi2022effective,
+  title={Effective Higher-order Link Prediction and Reconstruction from Simplicial Complex Embeddings},
+  author={Piaggesi, Simone and Panisson, Andr{\'e} and Petri, Giovanni},
+  booktitle={Learning on Graphs Conference},
+  pages={55--1},
+  year={2022},
+  organization={PMLR}
 }
 ```
 
